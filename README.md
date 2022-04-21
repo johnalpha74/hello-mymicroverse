@@ -1,7 +1,9 @@
 Hello Microverse
+
 This is my first project at Microverse
 
 My-Portfolio
+
 !www.johnalpha.dev
 
 Project Name
